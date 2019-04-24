@@ -65,7 +65,7 @@ Get real-time advice from a JavaScript expert. Office hours include...
 
 {{<cta for="office-hours-buy">}}
 
-{{<purchase-link>}}
+*Sold Out*
 
 {{%/purchase-box%}}
 
